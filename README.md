@@ -1,7 +1,5 @@
 # NEC-Drone-Dataset
-This repo is for the NEC-Drone-Dataset. 
-
-For the details, see our [full paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Choi_Unsupervised_and_Semi-Supervised_Domain_Adaptation_for_Action_Recognition_from_Drones_WACV_2020_paper.pdf).
+This repo is for the NEC-Drone-Dataset and the action recognition from drones project. For the details, see our [full paper](http://openaccess.thecvf.com/content_WACV_2020/papers/Choi_Unsupervised_and_Semi-Supervised_Domain_Adaptation_for_Action_Recognition_from_Drones_WACV_2020_paper.pdf).
 
 Due to the privacy issue, we need to mask out all human faces in our dataset. We are processing it now, and hopefully we can release the dataset soon.
 
